@@ -9,6 +9,7 @@ opt.smartcase = true
 opt.showmode = false
 opt.hidden = true
 opt.encoding = "utf-8"
+opt.termguicolors = true
 
 opt.smartindent = true
 opt.autoindent = true

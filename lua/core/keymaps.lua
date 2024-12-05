@@ -14,4 +14,5 @@ map.set("n", "S", "I", opts)
 map.set("n", "f", "o", opts)
 map.set("n", "F", "O", opts)
 
-map.set("n", "<leader>y", '"+y', opts);
+map.set("v", "<leader>y", '"+y', opts);
+map.set("n", "<esc>", "<CMD>nohlsearch<CR>", opts);
